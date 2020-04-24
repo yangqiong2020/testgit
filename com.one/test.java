@@ -21,5 +21,6 @@ public class test {
     }
     void master(){
         System.out.println("这是主干2==========");
+        System.out.println(11111111111111111L);
     }
 }
