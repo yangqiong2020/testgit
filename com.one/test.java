@@ -9,7 +9,10 @@ public class test {
         System.out.println("这是主干------------");
     }
 
-    void develop(){
+    void develop() {
         System.out.println("这是从新建的分支===========develop");
+    }
+    void master(){
+        System.out.println("这是主干2==========");
     }
 }
