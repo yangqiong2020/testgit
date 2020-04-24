@@ -9,6 +9,10 @@ public class test {
         System.out.println("这是主干------------");
     }
     void master2(){
+
         System.out.println("这是主干2=============22");
+    }
+    void master3(){
+        System.out.println("这是主干3=============333");
     }
 }
