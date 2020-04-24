@@ -12,4 +12,7 @@ public class test {
     void develop(){
         System.out.println("这是从新建的分支===========develop");
     }
+    void develop1(){
+        System.out.println("这是从分支新建的分支===========develop1");
+    }
 }
